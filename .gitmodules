@@ -4,3 +4,6 @@
 [submodule "saleor"]
 	path = saleor
 	url = https://github.com/jy-momo/1-fork-saleor.git
+[submodule "recommend"]
+	path = recommend
+	url = https://github.com/jy-momo/1-fork-recommend.git
