@@ -1,3 +1,6 @@
 [submodule "medusa"]
 	path = medusa
 	url = https://github.com/jy-momo/medusa.git
+[submodule "saleor"]
+	path = saleor
+	url = https://github.com/jy-momo/1-fork-saleor.git
